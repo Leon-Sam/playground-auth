@@ -25,7 +25,7 @@
     "@supabase/supabase-js": "^1.21.7",
     "@tailwindcss/forms": "^0.5.2",
     "classnames": "2.3.1",
-    "firebase": "^9.0.2",
+    "firebase": "^11.2.0",
     "highlight.js": "^10.7.2",
     "highlightjs-graphql": "^1.0.2",
     "magic-sdk": "^4.2.1",
